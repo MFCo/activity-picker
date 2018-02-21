@@ -1,8 +1,8 @@
 # Thoughts Tracker
 
-This is a simple activity picker, you can easily set what do you want to do this weekend, your favourite time, and if you want to do it alone or with friends. Then just click `Go to activities` and you'll get a list of activities that fit your requirements.
+This is a simple activity picker, you can easily set what do you want to do this weekend, your favourite time, and if you want to do it alone or with friends. Then just click `Go to activities` and you'll get a list of activities that fit your requirements. [HERE IS A GIF](https://i.imgur.com/dshQ9LM.gif) where you can see the app working.
 
-![example](https://imgur.com/dshQ9LM)
+[](https://i.imgur.com/dshQ9LM.gif)
 
 # Make it work locally
 
